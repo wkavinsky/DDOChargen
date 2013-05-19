@@ -1,0 +1,8 @@
+c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO_Character_Generator.AboutProgram.resources
+c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO_Character_Generator.Main.resources
+c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO_Character_Generator.Properties.Resources.resources
+c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO Character Generator.csproj.GenerateResource.Cache
+c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\bin\Debug\DDO Character Generator.exe
+c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\bin\Debug\DDO Character Generator.pdb
+c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO Character Generator.exe
+c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO Character Generator.pdb

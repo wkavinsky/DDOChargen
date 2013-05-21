@@ -52,7 +52,7 @@
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(284, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(479, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -74,12 +74,14 @@
             this.newCharacterToolStripMenuItem.Name = "newCharacterToolStripMenuItem";
             this.newCharacterToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
             this.newCharacterToolStripMenuItem.Text = "&New Character";
+            this.newCharacterToolStripMenuItem.Click += new System.EventHandler(this.newCharacterToolStripMenuItem_Click);
             // 
             // loadCharacterToolStripMenuItem
             // 
             this.loadCharacterToolStripMenuItem.Name = "loadCharacterToolStripMenuItem";
             this.loadCharacterToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
             this.loadCharacterToolStripMenuItem.Text = "&Load Character";
+            this.loadCharacterToolStripMenuItem.Click += new System.EventHandler(this.loadCharacterToolStripMenuItem_Click);
             // 
             // saveCharacterToolStripMenuItem
             // 
@@ -87,6 +89,7 @@
             this.saveCharacterToolStripMenuItem.Name = "saveCharacterToolStripMenuItem";
             this.saveCharacterToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
             this.saveCharacterToolStripMenuItem.Text = "&Save Character";
+            this.saveCharacterToolStripMenuItem.Click += new System.EventHandler(this.saveCharacterToolStripMenuItem_Click);
             // 
             // closeCharacterToolStripMenuItem
             // 
@@ -94,6 +97,7 @@
             this.closeCharacterToolStripMenuItem.Name = "closeCharacterToolStripMenuItem";
             this.closeCharacterToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
             this.closeCharacterToolStripMenuItem.Text = "&Close Character";
+            this.closeCharacterToolStripMenuItem.Click += new System.EventHandler(this.closeCharacterToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
@@ -148,7 +152,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(479, 451);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Main";

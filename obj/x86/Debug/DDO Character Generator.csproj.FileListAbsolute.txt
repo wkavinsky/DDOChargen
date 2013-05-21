@@ -7,3 +7,5 @@ c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO 
 c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO Character Generator.exe
 c:\users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO Character Generator.pdb
 C:\Users\asda\Documents\Visual Studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO Character Generator.csprojResolveAssemblyReference.cache
+C:\Users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\bin\Debug\DDO Character Generator.exe.config
+C:\Users\asda\documents\visual studio 2010\Projects\DDO Character Generator\DDO Character Generator\obj\x86\Debug\DDO_Character_Generator.EpicDestinies.resources

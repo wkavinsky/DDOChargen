@@ -56,5 +56,11 @@ namespace DDO_Character_Generator
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            EpicDestinies epicdestinies = new EpicDestinies();
+            epicdestinies.ShowDialog();
+        }
      }
 }
